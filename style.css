@@ -138,3 +138,24 @@ footer{
         height:140px;
     }
 }
+.dark-mode{
+    background:#121212;
+    color:white;
+}
+
+.dark-mode section{
+    background:#1e1e1e;
+    color:white;
+}
+
+.dark-mode nav{
+    background:black;
+}
+
+.dark-mode footer{
+    background:black;
+}
+
+.dark-mode a{
+    color:#60a5fa;
+}
